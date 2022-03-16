@@ -9,7 +9,14 @@ package domain;
  * @author F3n1X
  */
 class Predator extends Animal {
-    public void hunt() {
+
+/** 
+ *
+ * It is a constructor. 
+ *
+ */
+    public void hunt() { 
+
         System.out.println("Octofreagoton is hunting...");
     }
 }
